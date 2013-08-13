@@ -1,0 +1,15 @@
+{
+    "name": "geospatial"
+  , "repo": "logicalparadox/geospatial"
+  , "version": "0.0.0"
+  , "description": "Geospatial utility library."
+  , "license": "MIT"
+  , "keywords": [
+    ]
+  , "main": "lib/geospatial.js"
+  , "scripts": [
+        "lib/geospatial.js"
+    ]
+  , "dependencies": {}
+  , "development": {}
+}
