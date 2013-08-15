@@ -1,6 +1,6 @@
 {
     "name": "geospatial"
-  , "version": "0.0.0"
+  , "version": "0.1.0"
   , "description": "Geospatial utility library."
   , "author": "Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)"
   , "license": "MIT"

@@ -1,4 +1,4 @@
-# geospatial
+# geospatial [![Build Status](https://travis-ci.org/logicalparadox/geospatial.png?branch=master)](https://travis-ci.org/logicalparadox/geospatial)
 
 > Geospatial utility library.
 
@@ -20,7 +20,7 @@
 
 (The MIT License)
 
-Copyright (c) 2012 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)
+Copyright (c) 2013 Jake Luer <jake@alogicalparadox.com> (http://alogicalparadox.com)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
